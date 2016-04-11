@@ -1,0 +1,12 @@
+{
+  "snippets": {
+    "[foo]": "snippets/foo.sql"
+  },
+  "views": [
+    {
+      "name": "bar",
+      "query_file": "views/bar.sql",
+      "user_list": "one, group two"
+    }
+  ]
+}
